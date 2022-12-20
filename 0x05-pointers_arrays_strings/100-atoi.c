@@ -1,17 +1,18 @@
-betty 100-atoi.c
+
 #include "main.h"
 
 
 
 /**
  *
- *  * _atoi - converts a string to an integer.
+ *   _atoi - converts a string to an integer.
  *
- *   * @s: input string.
+ *   @s: input string.
  *
- *    * Return: integer.
+ *   Return: integer.
  *
- *     */
+ */
+
 
 int _atoi(char *s)
 
