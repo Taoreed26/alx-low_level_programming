@@ -3,20 +3,10 @@
 #include <stdlib.h>
 
 #include "dog.h"
-
-
-
 /**
- *
- *   * print_dog - Prints all the data of a dog
- *
- *     * @d: A dog structure
- *
- *       *
- *
- *         * Return: Nothing
- *
- *           */
+ *	main - check the code
+ *	Return: Always 0.
+ */
 
 void print_dog(struct dog *d)
 
