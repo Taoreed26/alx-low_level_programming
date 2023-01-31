@@ -1,4 +1,3 @@
-@@ -0,0 +1,37 @@
 #ifndef LISTS_H
 #define LISTS_H
 
@@ -7,10 +6,10 @@
 /**
  * struct listint_s - singly linked list
  * @n: integer
- * @next: always point to the next node
+ * @next: points to the next node
  *
- * it describes singly linked list node structure
- * for the project to be executed
+ * Description: singly linked list node structure
+ * for project
  */
 
 typedef struct listint_s
